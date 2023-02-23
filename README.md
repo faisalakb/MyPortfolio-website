@@ -94,7 +94,7 @@ And then open your folder in VSCode and install require packages
 commands:
 
   cd my-folder location
-  git clone https://github.com/faisalakb/Portfolio-website.git
+  git clone https://github.com/faisalakb/Portfolio-website1
 
 
 ### Install
