@@ -1,4 +1,4 @@
-# Portfolio-website
+# Mobile Portfolio website
 <a name="readme-top"></a>
 # 📗 Table of Contents
 
@@ -26,7 +26,7 @@
 
 # 📖 [Portfolio-website] <a name="about-project"></a>
 
-> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS and Figma. We design a landing page here. 
+> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS Flexbox and grid from Figma.
 
 
 
@@ -52,6 +52,7 @@
 > Describe key features of the application.
 
 -Mobile view Portfolio
+-Use flexbox and css grid for responsiveness
 -Using figma to set the css
 
 
@@ -63,7 +64,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website/blob/main/index.html)
+- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website1/blob/Finish-mobile-version/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
