@@ -349,7 +349,7 @@
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
-}
+  }
 
   #seeProject2 {
     width: 98px;
@@ -595,7 +595,7 @@
     line-height: 16px;
     letter-spacing: 0.03em;
     color: #36b37e;
-}
+  }
 
   #Arrb {
     display: flex;
