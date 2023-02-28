@@ -27,12 +27,11 @@
     width: 114px;
     height: 48px;
     left: 12px;
-    top: calc(50% - 48px / 2);
   }
 
   .logo {
     text-decoration: none;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -55,7 +54,6 @@
     height: 40px;
     margin-top: -6px;
     right: 24px;
-    top: calc(50% - 40px / 2);
     border-radius: 8px;
   }
 
@@ -176,7 +174,6 @@
     border: none;
     padding-left: 45%;
     height: 40px;
-    left: calc(50% - 40px / 2 + 0.5px);
     bottom: 4px;
     background: #fff;
     border-radius: 32px;
@@ -243,7 +240,6 @@
     justify-items: center;
     padding: 12px;
     height: 222px;
-    left: calc(50% - 327px / 2);
     background: #fff;
     border: 1px solid #d0d9d4;
     border-radius: 8px;
@@ -341,7 +337,6 @@
     gap: 10px;
     width: 122px;
     height: 48px;
-    left: calc(50% - 122px / 2 + 0.5px);
     bottom: 8px;
     background: #36b37f;
     border-radius: 4px;
@@ -354,7 +349,7 @@
   #seeProject2 {
     width: 98px;
     height: 24px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -457,7 +452,6 @@
   .aicon1 {
     width: 327px;
     height: 128px;
-    left: calc(50% - 327px / 2);
     top: 16px;
   }
 
@@ -835,7 +829,7 @@
     height: 330px;
   }
 
-  .inp1 {
+  #name {
     width: 327px;
     height: 48px;
     box-sizing: border-box;
@@ -843,7 +837,7 @@
     border-radius: 4px;
   }
 
-  .inp2 {
+  #email {
     width: 327px;
     height: 48px;
     box-sizing: border-box;
@@ -873,6 +867,10 @@
     text-align: center;
     letter-spacing: 0.003em;
     color: #fff;
+  }
+
+  .getIn:hover {
+    background-color: red;
   }
 
   #footId {
