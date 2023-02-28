@@ -64,7 +64,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website1/blob/Finish-mobile-version/index.html)
+- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website1/blob/form-feature/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,10 +72,8 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
+>Create a folder on your local machine and then type: git clone https://github.com/faisalakb/Portfolio-website1.git
+on the git terminal to get the code. 
 ### Prerequisites
 
 In order to run this project you need:
@@ -85,6 +83,7 @@ ESLint
 Figma
 commands:
 npm -i packages
+SignUp on  Formspree
 
 
 ### Setup
@@ -112,14 +111,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 To run the project,using Live Sever on VSCode
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 ### Run tests
 
 To run tests, run the following command:
@@ -128,18 +119,6 @@ To run tests, run the following command:
 command:
 
 npx stylelint "**/*.{css,scss}"
-
-### Deployment
-
-You can deploy this project using:
-Npm repo
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
