@@ -335,6 +335,8 @@
     align-items: center;
     padding: 12px;
     gap: 10px;
+    border: none;
+    outline: none;
     width: 122px;
     height: 48px;
     bottom: 8px;
@@ -835,6 +837,15 @@
     box-sizing: border-box;
     border: 1px solid #d0d9d4;
     border-radius: 4px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #6b778c;
   }
 
   #email {
@@ -843,10 +854,30 @@
     box-sizing: border-box;
     border: 1px solid #d0d9d4;
     border-radius: 4px;
+    padding-left: 16px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #6b778c;
   }
 
   .inp3 {
+    box-sizing: border-box;
+    background: #fff;
     border: 1px solid #60c095;
+    border-radius: 4px;
+    padding-left: 16px;
+    padding-top: 12px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #091e42;
   }
 
   .getIn {
@@ -855,7 +886,7 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
-    width: 120px;
+    width: 129px;
     height: 48px;
     background: #36b37f;
     border-radius: 4px;
@@ -867,6 +898,14 @@
     text-align: center;
     letter-spacing: 0.003em;
     color: #fff;
+    border: none;
+    outline: none;
+  }
+
+  #t_icon {
+    margin-top: -145px;
+    margin-left: 338px;
+    mix-blend-mode: normal;
   }
 
   .getIn:hover {
@@ -878,10 +917,21 @@
     flex-direction: column;
     align-items: center;
     position: absolute;
-    top: 6580px;
+    margin-left: 30px;
+    top: 6650px;
     gap: 24px;
     width: 100%;
     height: 130px;
+  }
+
+  #lastbar {
+    width: 150px;
+    height: 6px;
+    position: absolute;
+    margin-left: 40%;
+    background: black;
+    border-radius: 10px;
+    top: 7100px;
   }
 
   .gifs {
