@@ -34,7 +34,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> We are using HTML5,CSS,Figma for this project.
+> We are using HTML5,CSS,Figma and Formspree fpr forms for this project.
 
 <details>
   <summary>Client</summary>
@@ -54,7 +54,7 @@
 -Mobile view Portfolio
 -Use flexbox and css grid for responsiveness
 -Using figma to set the css
-
+-Use Forms
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +102,7 @@ commands:
 
 Install this project with:
 HTML&CSS Linters like Stylelint
-
+Forms creation: Sign up on  formspree.oi
 
 command:
 

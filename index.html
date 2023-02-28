@@ -180,12 +180,16 @@
         <section class="ftext">
           <h4>I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.</h4>
         </section>
-        <section class="form2">
-          <input class="inp1" placeholder="Full Name" type="text">
-          <input class="inp2" placeholder="Email address" type="text">
-          <textarea class="inp3" placeholder="Enter text here" rows="5" cols="42"></textarea>
-          <button class="getIn">Get in touch</button>
-        </section>
+        
+          <form action="https://formspree.io/f/xdovzayl" method="POST">
+          <ul class="form2" >
+          <li><input id="name"  type="text" name="fname" maxlength="30" placeholder="Full Name"  required></li>
+          <li><input id="email" type="email" name="email" placeholder="Email address" required></li> 
+          <li><textarea class="inp3" name="micro_text"  maxlength="500" placeholder="Enter text here" rows="5" cols="42"></textarea></li>
+          <li><button class="getIn" type="submit">Get in touch</button></li>
+          </ul>
+          </form>
+ 
         <img class="lastVector" src="./images/lastVector.svg" alt="no img found">
      </section>
       <footer id="footId">
