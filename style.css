@@ -826,6 +826,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-left: 0;
     gap: 24px;
     width: 327px;
     height: 330px;
@@ -869,9 +870,12 @@
     box-sizing: border-box;
     background: #fff;
     border: 1px solid #60c095;
+    padding-left: 12px;
+    resize: auto;
+    overflow: auto;
+    width: 327px;
+    height: 114px;
     border-radius: 4px;
-    padding-left: 16px;
-    padding-top: 12px;
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -902,14 +906,8 @@
     outline: none;
   }
 
-  #t_icon {
-    margin-top: -145px;
-    margin-left: 338px;
-    mix-blend-mode: normal;
-  }
-
   .getIn:hover {
-    background-color: red;
+    background: #36b37f;
   }
 
   #footId {
@@ -917,7 +915,7 @@
     flex-direction: column;
     align-items: center;
     position: absolute;
-    margin-left: 30px;
+    margin: 0;
     top: 6650px;
     gap: 24px;
     width: 100%;
@@ -957,17 +955,30 @@
   }
 
   .lastVector {
+    width: 92.81px;
+    height: 132.71px;
     position: absolute;
-    left: 83.43%;
-    right: -97.72%;
-    top: 720px;
+    right: 0;
+    background-position: right;
+    background-position-x: 100%;
+    top: 800px;
+    background-image: url("./images/lastVector.svg");
     transform: rotate(360deg);
+    background-repeat: no-repeat;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
   }
 
   #ai1 {
     position: absolute;
+    right: 0;
+    background-position: right;
+    background-position-x: 100%;
     width: 68px;
     height: 127px;
+    background-image: url("./icons/a1.png");
     margin-left: 320px;
     top: 4120px;
   }
