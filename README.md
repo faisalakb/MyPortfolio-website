@@ -131,7 +131,7 @@ npx stylelint "**/*.{css,scss}"
 👤 **Faisal**
 
 - GitHub: [@githubhandle](https://github.com/faisalakb)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
 👤 
