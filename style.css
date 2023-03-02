@@ -6,16 +6,14 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
- 
-  nav{
+  nav {
     display: none;
-  } 
-  .container {
-    position: relative;
-    
   }
 
- 
+  .container {
+    position: relative;
+  }
+
   .header1 {
     top: 44px;
     position: absolute;
@@ -843,7 +841,7 @@ body {
     box-sizing: border-box;
     border: 1px solid #d0d9d4;
     border-radius: 4px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -861,7 +859,7 @@ body {
     border: 1px solid #d0d9d4;
     border-radius: 4px;
     padding-left: 16px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -881,7 +879,7 @@ body {
     width: 327px;
     height: 114px;
     border-radius: 4px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -1005,33 +1003,38 @@ body {
   }
 }
 
- @media only screen and (min-width: 768px) {
-  
-  header>a,.hambug, #myEmail,#lastbar{
-    display:none;
+@media only screen and (min-width: 768px) {
+  header > a,
+  .hambug,
+  #myEmail,
+  #lastbar {
+    display: none;
   }
+
   .header1 {
     position: absolute;
     width: 100%;
     height: 72px;
-    margin:auto;
+    margin: auto;
   }
+
   ul {
     list-style-type: none;
   }
-  nav>ul {
+
+  nav > ul {
     list-style-type: none;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap:8px;
-    top:16px;
-
+    gap: 8px;
+    top: 16px;
   }
-nav>ul>li{
+
+  nav > ul > li {
     padding: 10px 12px;
     gap: 10px;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 15px;
@@ -1044,14 +1047,14 @@ nav>ul>li{
 
   .container {
     position: relative;
-    margin:auto;
+    margin: auto;
   }
 
-  .Headline{
+  .Headline {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 160px 0px;
+    padding: 160px 0;
     gap: 24px;
     position: absolute;
     width: 100%;
@@ -1059,20 +1062,20 @@ nav>ul>li{
     background-image: url("Header-llustration-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
-    margin:auto;
+    margin: auto;
   }
 
   .Primary {
     width: 100%;
     height: 114px;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 48px;
     line-height: 60px;
     text-align: center;
     letter-spacing: 0.37px;
-    color: #172B4D;
+    color: #172b4d;
   }
 
   #myfield {
@@ -1082,13 +1085,13 @@ nav>ul>li{
   .supporting_text {
     width: 770px;
     height: 96px;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
     text-align: center;
-    color: #172B4D;
+    color: #172b4d;
     flex: none;
     order: 1;
     flex-grow: 0;
@@ -1098,7 +1101,7 @@ nav>ul>li{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding:0px;
+    padding: 0;
     margin-top: -25px;
     width: 200px;
     height: 40px;
@@ -1107,59 +1110,63 @@ nav>ul>li{
     flex-grow: 0;
     list-style-type: none;
   }
-  .d1{
+
+  .d1 {
     position: absolute;
     left: 42%;
-
   }
-  .d2{
+
+  .d2 {
     position: absolute;
     left: 45%;
- 
   }
-  .d3{
+
+  .d3 {
     position: absolute;
     left: 48%;
   }
-  .d4{
+
+  .d4 {
     position: absolute;
     left: 51%;
   }
-  .d5{
+
+  .d5 {
     position: absolute;
     left: 54%;
   }
-  .recent_work{
+
+  .recent_work {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 80px 0px;
+    padding: 80px 0;
     gap: 48px;
     position: absolute;
-    width:100%;
+    width: 100%;
     height: 1244px;
     top: 990px;
   }
-  .disb2{
+
+  .disb2 {
     display: flex;
     flex-direction: row;
     align-items: center;
     position: absolute;
     width: 40px;
     height: 40px;
-    left:47%;
-    background: #FFFFFF;
-    border: 1px solid #DFE1E6;
+    left: 47%;
+    background: #fff;
+    border: 1px solid #dfe1e6;
     border-radius: 32px;
-    border: none;
-    top:-320px;
+    top: -320px;
   }
 
-  #recentHeading{
+  #recentHeading {
     justify-content: center;
     width: 100%;
     height: 48px;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -1167,25 +1174,24 @@ nav>ul>li{
     display: flex;
     align-items: center;
     text-align: center;
-    color: #172B4D;
+    color: #172b4d;
   }
 
   .cards {
     display: grid;
     grid-template-columns: auto auto auto;
     align-items: center;
-    column-gap:30px ;
+    column-gap: 30px;
     row-gap: 50px;
     width: 100%;
     height: 988px;
-
   }
 
   .card1 {
-  width: 369px;
-  height: 474px;
-  top:4px;
-    background: #EBF0EE;
+    width: 369px;
+    height: 474px;
+    top: 4px;
+    background: #ebf0ee;
     border: 1px solid #d0d9d4;
     border-radius: 8px;
   }
@@ -1325,26 +1331,23 @@ nav>ul>li{
     color: #fff;
   }
 
-
-
   .about {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 80px 0px;
+    padding: 80px 0;
     gap: 48px;
     position: absolute;
     width: 100%;
     height: 100vh;
     top: 2305px;
-
   }
 
-   .Acard {
+  .Acard {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding:0px;
+    padding: 0;
     width: 920px;
     height: 240px;
     gap: 24px;
@@ -1376,7 +1379,7 @@ nav>ul>li{
     line-height: 32px;
     text-align: center;
     color: #42526e;
-    top:0px;
+    top: 0;
     margin-top: -24px;
   }
 
@@ -1385,7 +1388,7 @@ nav>ul>li{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border:none;
+    border: none;
     padding: 12px;
     gap: 10px;
     width: 159px;
@@ -1403,7 +1406,7 @@ nav>ul>li{
     color: #fff;
   }
 
-   .mainCards {
+  .mainCards {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -1440,10 +1443,6 @@ nav>ul>li{
     line-height: 32px;
     text-align: center;
     color: #344563;
-  }
-
-  ul {
-    list-style-type: none;
   }
 
   .Atags {
@@ -1773,10 +1772,10 @@ nav>ul>li{
     flex-direction: row;
     justify-content: center;
     position: absolute;
-    left:135px;
+    left: 135px;
     width: 1171px;
     gap: 24px;
-    padding: 80px 0px;
+    padding: 80px 0;
     height: 490px;
     top: 3185px;
   }
@@ -1785,7 +1784,7 @@ nav>ul>li{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px;
+    padding: 0;
     gap: 24px;
     width: 463px;
     height: 256px;
@@ -1794,10 +1793,7 @@ nav>ul>li{
     font-weight: 700;
     font-size: 30px;
     line-height: 52px;
-    display: flex;
-    align-items: center;
-    color: #172B4D;
-    
+    color: #172b4d;
   }
 
   .form2 {
@@ -1805,7 +1801,7 @@ nav>ul>li{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 0px;
+    padding: 0;
     gap: 24px;
     width: 684px;
     height: 330px;
@@ -1816,7 +1812,7 @@ nav>ul>li{
     height: 48px;
     border: 1px solid #d0d9d4;
     border-radius: 4px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -1832,7 +1828,7 @@ nav>ul>li{
     height: 48px;
     border: 1px solid #d0d9d4;
     border-radius: 4px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -1853,7 +1849,7 @@ nav>ul>li{
     width: 684px;
     height: 114px;
     border-radius: 4px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -1898,12 +1894,12 @@ nav>ul>li{
     display: flex;
     flex-direction: row;
     position: absolute;
-    padding:0px;
+    padding: 0;
     width: 100%;
     height: 40px;
     flex: none;
     order: 2;
-    top:3880px;
+    top: 3880px;
   }
 
   #ai1 {
@@ -1927,36 +1923,34 @@ nav>ul>li{
     background-image: url("./icons/ai2.2.png");
     background-repeat: no-repeat;
   }
-  #left_bottom{
-  
+
+  #left_bottom {
     position: absolute;
     top: 3500px;
-    left:0px;
+    left: 0;
     width: 235.78px;
     height: 261.79px;
     background-image: url("./icons/left_bottom.png");
     background-repeat: no-repeat;
-
-
   }
-   #center_bottom{
+
+  #center_bottom {
     position: absolute;
     top: 3650px;
     width: 130.28px;
     height: 105.85px;
-    left: 274px;  
+    left: 274px;
     background-image: url("./icons/center_bottom_1.svg");
     background-repeat: no-repeat;
-   }
-  #right_bottom{
+  }
+
+  #right_bottom {
     position: absolute;
     top: 3390px;
-    right:0px;
+    right: 0;
     width: 220px;
     height: 448.7px;
     background-image: url("./icons/right_bottom.png");
     background-repeat: no-repeat;
-  } 
-
-
+  }
 }
