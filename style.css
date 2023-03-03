@@ -896,7 +896,9 @@ body {
     width: 129px;
     height: 48px;
     background: #36b37f;
-    border-radius: 4px;
+    cursor: pointer;
+    z-index: 0;
+    border-radius: 10px;
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -1902,6 +1904,10 @@ body {
     top: 3880px;
   }
 
+  #footId:hover {
+    transform: scale(1.1);
+  }
+
   #ai1 {
     position: absolute;
     right: 0;
@@ -1944,13 +1950,63 @@ body {
     background-repeat: no-repeat;
   }
 
-  #right_bottom {
+  .getIn::before {
+    content: "";
+    background: linear-gradient(45deg, #f00, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #f00);
     position: absolute;
-    top: 3390px;
-    right: 0;
-    width: 220px;
-    height: 448.7px;
-    background-image: url("./icons/right_bottom.png");
-    background-repeat: no-repeat;
+    top: -2px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    -moz-transition: opacity 0.3s ease-in-out;
+    -ms-transition: opacity 0.3s ease-in-out;
+    -o-transition: opacity 0.3s ease-in-out;
+  }
+
+  .getIn::after {
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    border-radius: 10px;
+  }
+
+  .getIn:active::after {
+    background: transparent;
+  }
+
+  .getIn:hover::before {
+    opacity: 1;
+  }
+
+  @keyframes glowing {
+    0% {
+      background-position: 0 0;
+    }
+
+    50% {
+      background-position: 400% 0;
+    }
+
+    100% {
+      background-position: 0 0;
+    }
+  }
+
+  .card1:hover {
+    transition: width 2s, height 2s, transform 2s;
+    -webkit-transition: width 2s, height 2s, transform 2s;
+    -moz-transition: width 2s, height 2s, transform 2s;
+    -ms-transition: width 2s, height 2s, transform 2s;
+    -o-transition: width 2s, height 2s, transform 2s;
   }
 }
