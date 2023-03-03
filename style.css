@@ -1905,7 +1905,9 @@ body {
     order: 2;
     top: 3880px;
   }
-
+  #footId:hover{
+    transform: scale(1.1);
+  }
   #ai1 {
     position: absolute;
     right: 0;
