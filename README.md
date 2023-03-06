@@ -64,7 +64,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website1/blob/form-feature/index.html)
+- [Live Demo Link](https://faisalakb.github.io/Portfolio-website1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
