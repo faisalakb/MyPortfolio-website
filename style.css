@@ -42,7 +42,7 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
-    width: 90px;
+    width: 190px;
     height: 28px;
     color: #28352f;
   }
@@ -1039,7 +1039,7 @@ body {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 25px;
     line-height: 20px;
     display: flex;
     align-items: center;
