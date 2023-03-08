@@ -343,7 +343,7 @@ body {
     width: 122px;
     height: 48px;
     bottom: 8px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -351,7 +351,7 @@ body {
     font-size: 17px;
     line-height: 24px;
     letter-spacing: 0.003em;
-    color: red;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
@@ -359,13 +359,13 @@ body {
   }
 
   #seeProject :hover {
-    background: #05ed89;
+    background: #36b37f;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
   #seeProject:active {
-    background: rgb(18, 11, 11);
+    background: #008552;
     border-radius: 4px;
   }
 
@@ -423,7 +423,7 @@ body {
     gap: 10px;
     width: 159px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     margin-top: -10px;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
@@ -1324,7 +1324,7 @@ body {
     width: 122px;
     height: 48px;
     bottom: 8px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -1332,7 +1332,7 @@ body {
     font-size: 17px;
     line-height: 24px;
     letter-spacing: 0.003em;
-    color: red;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
@@ -1340,13 +1340,13 @@ body {
   }
 
   #seeProject :hover {
-    background: #05ed89;
+    background: #36b37f;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
   #seeProject:active {
-    background: rgb(18, 11, 11);
+    background: #008552;
     border-radius: 4px;
   }
 
@@ -1412,7 +1412,7 @@ body {
     gap: 10px;
     width: 159px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     margin-top: -10px;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
@@ -1427,13 +1427,13 @@ body {
   }
 
   .Abutton:hover {
-    background: #054a2d;
+    background: #36b37f;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
   .Abutton:active {
-    background: #010e09;
+    background: #008552;
     border-radius: 4px;
   }
 
