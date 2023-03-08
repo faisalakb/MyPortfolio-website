@@ -42,7 +42,7 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
-    width: 90px;
+    width: 190px;
     height: 28px;
     color: #28352f;
   }
@@ -127,7 +127,7 @@ body {
   }
 
   #myfield {
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .supporting_text {
@@ -203,7 +203,7 @@ body {
   .indicator {
     width: 48px;
     height: 4px;
-    background: #36b37e;
+    background: #034f2f;
     border-radius: 24px;
     margin-top: -22px;
     margin-left: 44%;
@@ -343,27 +343,30 @@ body {
     width: 122px;
     height: 48px;
     bottom: 8px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.003em;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
   }
 
-  #seeProject2 {
-    width: 98px;
-    height: 24px;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 17px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.003em;
-    color: #fff;
+  #seeProject :hover {
+    background: #106542;
+    box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
+    border-radius: 4px;
+  }
+
+  #seeProject:active {
+    background: #008552;
+    border-radius: 4px;
   }
 
   .about {
@@ -420,7 +423,7 @@ body {
     gap: 10px;
     width: 159px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     margin-top: -10px;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
@@ -431,6 +434,17 @@ body {
     text-align: center;
     letter-spacing: 0.003em;
     color: #fff;
+  }
+
+  .Abutton:hover {
+    background: #106542;
+    box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
+    border-radius: 4px;
+  }
+
+  .Abutton:active {
+    background: #0a2118;
+    border-radius: 4px;
   }
 
   .mainCards {
@@ -500,7 +514,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -517,7 +531,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -534,7 +548,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -553,7 +567,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .mcard2 {
@@ -593,7 +607,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arrb {
@@ -611,7 +625,7 @@ body {
     line-height: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arst {
@@ -628,7 +642,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acat {
@@ -645,7 +659,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Ast {
@@ -662,7 +676,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .twobtn {
@@ -712,7 +726,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Agb {
@@ -730,7 +744,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acpb {
@@ -748,7 +762,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Aglb {
@@ -766,7 +780,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .onebtn {
@@ -795,7 +809,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .form {
@@ -895,7 +909,7 @@ body {
     gap: 10px;
     width: 129px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     cursor: pointer;
     z-index: 0;
     border-radius: 10px;
@@ -912,7 +926,7 @@ body {
   }
 
   .getIn:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -1039,7 +1053,7 @@ body {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 25px;
     line-height: 20px;
     display: flex;
     align-items: center;
@@ -1081,7 +1095,7 @@ body {
   }
 
   #myfield {
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .supporting_text {
@@ -1250,7 +1264,7 @@ body {
     width: 79px;
     height: 16px;
     letter-spacing: 0.03em;
-    color: #3a4a42;
+    color: #106542;
     background: #ebf0ee;
     border-radius: 4px;
   }
@@ -1310,27 +1324,30 @@ body {
     width: 122px;
     height: 48px;
     bottom: 8px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.003em;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
   }
 
-  #seeProject2 {
-    width: 98px;
-    height: 24px;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 17px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.003em;
-    color: #fff;
+  #seeProject :hover {
+    background: #106542;
+    box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
+    border-radius: 4px;
+  }
+
+  #seeProject:active {
+    background: #008552;
+    border-radius: 4px;
   }
 
   .about {
@@ -1390,12 +1407,12 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: none;
+    border: 1px solid #106542;
     padding: 12px;
     gap: 10px;
     width: 159px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     margin-top: -10px;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
@@ -1406,6 +1423,18 @@ body {
     text-align: center;
     letter-spacing: 0.003em;
     color: #fff;
+    cursor: pointer;
+  }
+
+  .Abutton:hover {
+    background: #106542;
+    box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
+    border-radius: 4px;
+  }
+
+  .Abutton:active {
+    background: #0a2118;
+    border-radius: 4px;
   }
 
   .mainCards {
@@ -1471,7 +1500,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1488,7 +1517,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1505,7 +1534,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1524,7 +1553,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .mcard2 {
@@ -1564,7 +1593,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arrb {
@@ -1582,7 +1611,7 @@ body {
     line-height: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arst {
@@ -1599,7 +1628,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acat {
@@ -1616,7 +1645,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Ast {
@@ -1633,7 +1662,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .twobtn {
@@ -1683,7 +1712,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Agb {
@@ -1701,7 +1730,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acpb {
@@ -1719,7 +1748,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Aglb {
@@ -1737,7 +1766,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .onebtn {
@@ -1766,7 +1795,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .form {
@@ -1867,7 +1896,7 @@ body {
     gap: 10px;
     width: 129px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -1882,7 +1911,7 @@ body {
   }
 
   .getIn:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -1952,7 +1981,19 @@ body {
 
   .getIn::before {
     content: "";
-    background: linear-gradient(45deg, #f00, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #f00);
+    background:
+      linear-gradient(
+        45deg,
+        #f00,
+        #ff7300,
+        #fffb00,
+        #48ff00,
+        #00ffd5,
+        #002bff,
+        #7a00ff,
+        #ff00c8,
+        #f00
+      );
     position: absolute;
     top: -2px;
     left: -2px;
