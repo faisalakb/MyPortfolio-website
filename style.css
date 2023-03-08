@@ -345,6 +345,13 @@ body {
     bottom: 8px;
     background: #36b37f;
     border-radius: 4px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.003em;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
@@ -352,30 +359,16 @@ body {
   }
 
   #seeProject :hover {
-    background: #36b37f;
+    background: #05ed89;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
-  #seeProject :active {
-    background: #008552;
+  #seeProject:active {
+    background: rgb(18, 11, 11);
     border-radius: 4px;
   }
 
-  #seeProject2 {
-    width: 98px;
-    height: 24px;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 17px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.003em;
-    color: #fff;
-  }
 
   .about {
     display: flex;
@@ -1334,6 +1327,13 @@ body {
     bottom: 8px;
     background: #36b37f;
     border-radius: 4px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    letter-spacing: 0.003em;
+    color: #fff;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
@@ -1341,29 +1341,14 @@ body {
   }
 
   #seeProject :hover {
-    background: #36b37f;
+    background: #05ed89;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
   #seeProject:active {
-    background: #008552;
+    background: rgb(18, 11, 11);
     border-radius: 4px;
-  }
-
-  #seeProject2 {
-    width: 98px;
-    height: 24px;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 17px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.003em;
-    color: #fff;
   }
 
   .about {
