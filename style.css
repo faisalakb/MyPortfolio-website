@@ -352,13 +352,13 @@ body {
   }
 
   #seeProject :hover {
-    background: #36b37f;
+    background: #18df8c;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
 
   #seeProject :active {
-    background: #008552;
+    background: #025435;
     border-radius: 4px;
   }
 
