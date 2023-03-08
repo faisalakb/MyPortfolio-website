@@ -1390,7 +1390,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: none;
+    border: 1px solid #36b37f;
     padding: 12px;
     gap: 10px;
     width: 159px;
@@ -1406,6 +1406,14 @@ body {
     text-align: center;
     letter-spacing: 0.003em;
     color: #fff;
+    cursor: pointer;
+  }
+
+  .Abutton:hover {
+    border: 1px solid #36b37f;
+    background: #fff;
+    color: #36b37f;
+    transition: all 0.8s ease-in-out;
   }
 
   .mainCards {
@@ -1952,7 +1960,18 @@ body {
 
   .getIn::before {
     content: "";
-    background: linear-gradient(45deg, #f00, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #f00);
+    background: linear-gradient(
+      45deg,
+      #f00,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00c8,
+      #f00
+    );
     position: absolute;
     top: -2px;
     left: -2px;
