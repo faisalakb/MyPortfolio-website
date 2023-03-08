@@ -127,7 +127,7 @@ body {
   }
 
   #myfield {
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .supporting_text {
@@ -203,7 +203,7 @@ body {
   .indicator {
     width: 48px;
     height: 4px;
-    background: #36b37e;
+    background: #034f2f;
     border-radius: 24px;
     margin-top: -22px;
     margin-left: 44%;
@@ -359,7 +359,7 @@ body {
   }
 
   #seeProject :hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -437,7 +437,7 @@ body {
   }
 
   .Abutton:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -514,7 +514,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -531,7 +531,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -548,7 +548,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -567,7 +567,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .mcard2 {
@@ -607,7 +607,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arrb {
@@ -625,7 +625,7 @@ body {
     line-height: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arst {
@@ -642,7 +642,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acat {
@@ -659,7 +659,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Ast {
@@ -676,7 +676,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .twobtn {
@@ -726,7 +726,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Agb {
@@ -744,7 +744,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acpb {
@@ -762,7 +762,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Aglb {
@@ -780,7 +780,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .onebtn {
@@ -809,7 +809,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .form {
@@ -909,7 +909,7 @@ body {
     gap: 10px;
     width: 129px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     cursor: pointer;
     z-index: 0;
     border-radius: 10px;
@@ -926,7 +926,7 @@ body {
   }
 
   .getIn:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -1095,7 +1095,7 @@ body {
   }
 
   #myfield {
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .supporting_text {
@@ -1264,7 +1264,7 @@ body {
     width: 79px;
     height: 16px;
     letter-spacing: 0.03em;
-    color: #3a4a42;
+    color: #106542;
     background: #ebf0ee;
     border-radius: 4px;
   }
@@ -1340,7 +1340,7 @@ body {
   }
 
   #seeProject :hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -1407,7 +1407,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: 1px solid #36b37f;
+    border: 1px solid #106542;
     padding: 12px;
     gap: 10px;
     width: 159px;
@@ -1427,7 +1427,7 @@ body {
   }
 
   .Abutton:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
@@ -1500,7 +1500,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1517,7 +1517,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1534,7 +1534,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
     background: #fff;
     border-radius: 8px;
   }
@@ -1553,7 +1553,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .mcard2 {
@@ -1593,7 +1593,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arrb {
@@ -1611,7 +1611,7 @@ body {
     line-height: 16px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Arst {
@@ -1628,7 +1628,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acat {
@@ -1645,7 +1645,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Ast {
@@ -1662,7 +1662,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .twobtn {
@@ -1712,7 +1712,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Agb {
@@ -1730,7 +1730,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Acpb {
@@ -1748,7 +1748,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   #Aglb {
@@ -1766,7 +1766,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .onebtn {
@@ -1795,7 +1795,7 @@ body {
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 0.03em;
-    color: #36b37e;
+    color: #034f2f;
   }
 
   .form {
@@ -1896,7 +1896,7 @@ body {
     gap: 10px;
     width: 129px;
     height: 48px;
-    background: #36b37f;
+    background: #106542;
     border-radius: 4px;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -1911,7 +1911,7 @@ body {
   }
 
   .getIn:hover {
-    background: #36b37f;
+    background: #106542;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
   }
