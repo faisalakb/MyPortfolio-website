@@ -448,7 +448,6 @@ body {
     background: #36b37f;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
-    transition: all 0.8s ease-in-out;
   }
 
   .Abutton:active {
@@ -1447,7 +1446,6 @@ body {
     background: #36b37f;
     box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
     border-radius: 4px;
-    transition: all 0.8s ease-in-out;
   }
 
   .Abutton:active {
