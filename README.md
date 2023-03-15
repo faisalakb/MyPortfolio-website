@@ -134,7 +134,12 @@ npx stylelint "**/*.{css,scss}"
 - Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
-👤 
+👤 **Harshika Govind**
+
+- GitHub: [@githubhandle](https://github.com/harshi0102)
+- Twitter: [@twitterhandle](https://twitter.com/harshika0102me)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/harshikagovind)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
