@@ -55,6 +55,7 @@
 -Using figma to set the css
 -Use Forms
 -Use javascript for Popup windows
+-Check form validation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +102,7 @@ commands:
 
 Install this project with:
 HTML,CSS&JavaScript Linters like Stylelint
-Forms creation: Sign up on  formspree.oi
+Forms creation: Sign up on  formspree.io
 
 command:
 
@@ -146,7 +147,7 @@ npx eslint . --fix
 
 ## 🔭 Future Features <a name="future-features"></a>
   
-- Client side Authentications
+- server side Authentications
 - Attach databases
 - Fully responsive website
 
@@ -159,7 +160,7 @@ npx eslint . --fix
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/faisalakb/Portfolio-website1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

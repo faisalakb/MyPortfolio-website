@@ -1,6 +1,6 @@
 // Get the modal
 const modal = document.getElementById('myModal');
-
+const formValid = document.getElementById('form_valid');
 // Get the button that opens the modal
 // let btn;
 
@@ -80,3 +80,15 @@ window.onclick = function (event) {
     document.getElementById('data').innerHTML = '';
   }
 };
+
+formValid.addEventListener('submit', (e) => {
+  const em = document.getElementById('email').value;
+  const err = document.getElementById('err');
+  const vaildEmail = em.toLowerCase();
+  if (em === vaildEmail) {
+    // do nothing
+  } else {
+    e.preventDefault();
+    err.textContent = 'Email should be typed in lowercase';
+  }
+});

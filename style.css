@@ -5,6 +5,15 @@ body {
   height: 0;
 }
 
+.err {
+  color: red;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+}
+
 @media only screen and (max-width: 768px) {
   nav,
   li.d_btn_li,
