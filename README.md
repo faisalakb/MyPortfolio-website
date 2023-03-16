@@ -102,7 +102,7 @@ commands:
 
 Install this project with:
 HTML,CSS&JavaScript Linters like Stylelint
-Forms creation: Sign up on  formspree.oi
+Forms creation: Sign up on  formspree.io
 
 command:
 
