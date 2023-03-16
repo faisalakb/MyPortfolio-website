@@ -26,7 +26,7 @@
 
 # 📖 [Portfolio-website] <a name="about-project"></a>
 
-> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS Flexbox and grid from Figma.
+> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS JavaScript Flexbox and grid from Figma.
 
 ## 🛠 Built With <a name="built-with"></a>
 
