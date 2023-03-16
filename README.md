@@ -27,7 +27,6 @@
 # 📖 [Portfolio-website] <a name="about-project"></a>
 
 > Portfolio-website project is about how to desgin a responsive portfolio using HTML CSS Javascript Flexbox and grid  from Figma.
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -39,7 +38,7 @@
   <ul>
     <li><a href="https://html5.org/">HTML5</a></li>
     <li><a href="https://www.w3schools.com/html/html_css.asp">CSS</a></li>
-    <li><a href="[https://www.w3schools.com/html/html_css.asp](https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/)">CSS</a></li>
+    <li><a href="[https://www.w3schools.com/html/html_css.asp](https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/">CSS</a></li>
     <li><a href="https://guardianskills.org/best-ways-to-learn-javascript-fast-in-2022/">JavaScript</a></li>
   </ul>
 </details>
