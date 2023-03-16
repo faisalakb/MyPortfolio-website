@@ -25,23 +25,22 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Portfolio-website] <a name="about-project"></a>
-> [Project Demonstration Link](https://www.loom.com/share/ba5911459b164ba2b046bf496f21d70d)
-> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS Flexbox and grid from Figma.
 
-
+> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS JavaScript Flexbox and grid from Figma.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> We are using HTML5,CSS,Figma and Formspree fpr forms for this project.
+> We are using HTML5,CSS,Javascript Figma and Formspree fpr forms for this project.
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://html5.org/">HTML5</a></li>
     <li><a href="https://www.w3schools.com/html/html_css.asp">CSS</a></li>
-    <li><a href="[https://www.w3schools.com/html/html_css.asp](https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/)">CSS</a></li>
+    <li><a href="[https://www.w3schools.com/html/html_css.asp](https://www.figma.com/blog/figma-on-figma-how-we-built-figma-dot-coms-design-system/">CSS</a></li>
+    <li><a href="https://guardianskills.org/best-ways-to-learn-javascript-fast-in-2022/">JavaScript</a></li>
   </ul>
 </details>
 
@@ -51,10 +50,11 @@
 
 > Describe key features of the application.
 
--Mobile view Portfolio
+-Desktop & Mobile view Portfolio
 -Use flexbox and css grid for responsiveness
 -Using figma to set the css
 -Use Forms
+-Use javascript for Popup windows
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ commands:
 ### Install
 
 Install this project with:
-HTML&CSS Linters like Stylelint
+HTML,CSS&JavaScript Linters like Stylelint
 Forms creation: Sign up on  formspree.oi
 
 command:
@@ -119,7 +119,7 @@ To run tests, run the following command:
 command:
 
 npx stylelint "**/*.{css,scss}"
-
+npx eslint . --fix
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -134,7 +134,12 @@ npx stylelint "**/*.{css,scss}"
 - Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
-👤 
+👤 **Harshika Govind**
+
+- GitHub: [@githubhandle](https://github.com/harshi0102)
+- Twitter: [@twitterhandle](https://twitter.com/harshika0102me)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/harshikagovind)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -162,17 +167,12 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> Use this code to create your own portfolio website for your clients
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
