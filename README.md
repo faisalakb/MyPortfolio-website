@@ -55,6 +55,7 @@
 -Using figma to set the css
 -Use Forms
 -Use javascript for Popup windows
+-Check form validation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +147,7 @@ npx eslint . --fix
 
 ## 🔭 Future Features <a name="future-features"></a>
   
-- Client side Authentications
+- server side Authentications
 - Attach databases
 - Fully responsive website
 

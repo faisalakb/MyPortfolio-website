@@ -208,17 +208,19 @@
              about new projects, so if you'd like to chat please get in touch.</h5>
         </section>
          
-          <form action="https://formspree.io/f/xdovzayl" method="POST">
+          <form id="form_valid" action="https://formspree.io/f/xdovzayl" method="POST">
           <ul class="form2" >
           <label class="form_label" hidden for="fullName">Full Name</label>
           <li><input id="name" maxlength="30" type="text" name="fname"  placeholder="Full name"  required></li>
           <label class="form_label" hidden for="email">Email</label>
-          <li><input id="email" type="email" name="email" placeholder="Email address" required></li> 
+          <li><input id="email" type="email" name="email" placeholder="Email address" required></li>
+          <span class="err" id="err"></span>
           <li><textarea class="inp3" name="micro_text" placeholder="Enter text here" maxlength="500"  required></textarea></li>
           <li><button class="getIn" type="submit">Get in touch</button></li>
         </ul>
         
         </form>
+        
         <div class="lastVector"></div>    
      </section>
       <footer id="footId">
