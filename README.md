@@ -26,12 +26,14 @@
 
 # 📖 [Portfolio-website] <a name="about-project"></a>
 
-> Portfolio-website project is about how to desgin a responsive portfolio using HTML CSS Javascript Flexbox and grid  from Figma.
+> > [Project Demonstration Link](https://www.loom.com/share/ba5911459b164ba2b046bf496f21d70d)
+> Portfolio-website project is about how to desgin a mobile view portfolio using HTML CSS Flexbox and grid from Figma.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> We are using HTML5,CSS,Figma and Formspree fpr forms for this project.
+> We are using HTML5,CSS,Javascript Figma and Formspree fpr forms for this project.
 
 <details>
   <summary>Client</summary>
