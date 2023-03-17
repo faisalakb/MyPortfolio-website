@@ -56,6 +56,7 @@
 -Use Forms
 -Use javascript for Popup windows
 -Check form validation
+-Form data stored in local storage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
