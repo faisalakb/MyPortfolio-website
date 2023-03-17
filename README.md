@@ -150,7 +150,7 @@ npx eslint . --fix
   
 - server side Authentications
 - Attach databases
-- Fully responsive website
+- Fully responsive and Interactive website
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
