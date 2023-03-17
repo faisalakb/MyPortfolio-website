@@ -82,7 +82,7 @@ window.onclick = function (event) {
 };
 
 formValid.addEventListener('submit', (e) => {
-  const em = document.getElementById('email').value;
+  const em = document.getElementById('email').innerHTML;
   const err = document.getElementById('err');
   const vaildEmail = em.toLowerCase();
   if (em === vaildEmail) {
